@@ -32,6 +32,11 @@ cmake-build-debug/
 ## File-based project format:
 *.iws
 
+#Maven
+mvnw
+mvnw.cmd
+.mvn/**
+
 ## Plugin-specific files:
 
 # IntelliJ
